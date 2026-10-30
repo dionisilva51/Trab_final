@@ -29,3 +29,5 @@ Histórico de versões:
 - Tag v0.1.0 -> Versão inicial do portal.
 
 - tag v1.0.0 -> Portal Halloween completo.
+
+link portal atualizado: https://github.com/dionisilva51/Trab_final
